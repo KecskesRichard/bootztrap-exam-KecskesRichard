@@ -1,0 +1,231 @@
+#startbs {
+    color: rgb(255, 217, 0);
+    font-size: 15px;
+}
+
+#startbs:hover {
+    background: none;
+    color: white;
+}
+
+.navthing {
+    color: white;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+#wat:hover,
+#the:hover,
+#fck:hover {
+    background: none;
+    color: white;
+}
+
+#demoscreen {
+    width: 250px;
+    border-radius: 30px;
+    float: right;
+    box-shadow: 0 0 5px black;
+}
+
+.firstrow {
+    position: relative;
+    margin: 80px auto;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-between;
+}
+
+.first {
+    background: url('img/bg-pattern.png') repeat, linear-gradient(to right, #DA2431, #B1325F, #804190, #814999);
+}
+
+#btn {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: white;
+    border-radius: 30px;
+    margin-top: 40px;
+    padding: 10px 40px;
+    text-transform: uppercase;
+}
+
+#btn:hover {
+    background: #fdcc52;
+}
+
+.second {
+    background: #FEC947;
+}
+
+.discover {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+}
+
+.jaj {
+    text-align: center;
+}
+
+.svg {
+    align-items: center;
+    justify-content: space-between;
+    left: 30px;
+    padding-bottom: 100px;
+}
+
+.svg img {
+    width: 150px;
+}
+
+.unlimited {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.p {
+    color: grey;
+}
+
+.check {
+    text-align: center;
+    padding-bottom: 80px;
+    width: 90px;
+}
+
+#demoscreen2 {
+    width: 250px;
+    border-radius: 30px;
+    box-shadow: 0 0 5px black;
+}
+
+.phone {
+    padding-bottom: 100px;
+}
+
+.embed-row .text-center {
+    padding-top: 40px;
+}
+
+.glyphicon {
+    color: #B1325F;
+    font-size: 40px;
+}
+
+.embed-row p {
+    color: grey;
+}
+
+.third {
+    background: url("img/bg-cta.jpg") center center;
+    box-shadow: inset 0 0 0 4096px rgba(0, 0, 0, .5);
+    height: 80vh;
+}
+
+.stop {
+    padding-top: 130px;
+    color: white;
+    font-size: 50px;
+}
+
+.stop2 {
+    color: white;
+    font-size: 50px;
+}
+
+#getstarted {
+    background: none;
+    border-color: white;
+    color: white;
+    border-radius: 30px;
+    margin-top: 20px;
+    padding: 10px 40px;
+    text-transform: uppercase;
+    font-size: 8px;
+}
+
+#getstarted:hover {
+    background-color: #fdcc52;
+    border-color: #fdcc52;
+}
+
+.fourth {
+    background-color: #FEC947;
+}
+
+.glyphicon-heart {
+    color: rgba(255, 30, 0, 0.952);
+    font-size: 30px;
+}
+
+.meh {
+    padding-top: 50px;
+}
+
+.fa-twitter {
+    font-size: 60px;
+    color: white;
+    background-color: #1DA1F2;
+    opacity: 0.9;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+.fa-twitter:hover {
+    opacity: 1;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+.l2 {
+    font-size: 28px;
+    color: white;
+    border-radius: 50px;
+    background-color: #4267b2;
+    opacity: 0.9;
+    padding: 10px 22px;
+    margin: 0 10px;
+}
+
+.l3 {
+    font-size: 28px;
+    color: white;
+    border-radius: 50px;
+    background-color: #DD4B39;
+    opacity: 0.9;
+    padding: 10px 13px;
+}
+
+.ffs {
+    padding-bottom: 50px;
+    left: 40px;
+}
+
+li:hover {
+    opacity: 1;
+}
+
+li a {
+    color: white;
+}
+
+li a:hover {
+    color: white;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.8)
+}
+
+.footp {
+    padding: 20px 0 10px;
+    color: lightgray;
+    font-size: 8px;
+}
